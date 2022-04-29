@@ -4,7 +4,7 @@
 
 ## O que aprendi?
 
-- Como modela um banco de dados relacional
+- Como modelar um banco de dados relacional
 - Como criar uma aplicação com Spring Boot 
 
 ## Executando a aplicação
