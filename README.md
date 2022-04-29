@@ -2,6 +2,11 @@
 
 > Desenvolvido por Elias Aguiar
 
+## O que aprendi?
+
+- Como modela um banco de dados relacional
+- Como criar uma aplicação com Spring Boot 
+
 ## Executando a aplicação
 
 Execute o seguinte comando no terminal:
