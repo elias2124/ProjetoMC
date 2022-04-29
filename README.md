@@ -2,6 +2,14 @@
 
 > Desenvolvido por Elias Aguiar
 
+## Executando a aplicação
+
+Execute o seguinte comando no terminal:
+
+```bash
+	./mvnw spring-boot:run
+```
+
 ## Modelo 
 ![img](docs/img/modelo.png)
 
